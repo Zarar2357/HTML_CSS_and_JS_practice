@@ -1,0 +1,31 @@
+body {
+    background: radial-gradient(circle, #e0e7ff, #c7d2fe); /* soft lavender to light periwinkle */
+    text-align: center;
+}
+
+#div1 {
+    background: radial-gradient(circle, #3f3d56, #5e718d); /* deep indigo to cool grey */
+    border-radius: 50px;
+}
+
+#input1 {
+    background: radial-gradient(circle, #f3f4f6, #d1d5db); /* light greys for a clean look */
+    border: #4b5563;
+    border-radius: 50px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+}
+
+#btn1 {
+    border: #d97706;
+    background: radial-gradient(circle, #facc15, #d97706); /* golden yellow to deep amber */
+    border-radius: 50px;
+    padding: 20px;
+    margin: 20px;
+}
+
+#para1 {
+    background: radial-gradient(circle, #e0f2fe, #93c5fd); /* soft blue gradient for output */
+    border-radius: 100px;
+}
