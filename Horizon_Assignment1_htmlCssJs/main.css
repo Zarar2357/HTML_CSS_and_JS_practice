@@ -1,0 +1,35 @@
+input{
+    background-color: rgb(211, 166, 211);
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+body{
+    background-color: rgb(205, 140, 210);
+}
+button{
+    background-color: rgb(211, 166, 211);
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 50px;
+    font-size: 16px;
+    color: white;
+    font-weight: bold;
+}
+table{
+    border: 3px solid  pink;
+    position:absolute;
+    top:50px;
+    right:50px;
+    column-gap: 100px;
+    column-rule: 2px solid pink;
+    }
+th{
+    border: 2px solid pink;
+}
+td{
+    border: 2px solid pink;
+}
